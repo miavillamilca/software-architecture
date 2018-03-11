@@ -1,0 +1,34 @@
+make  install-recursive
+make[1]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7'
+Making install in include
+make[2]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include'
+Making install in libxml
+make[3]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include/libxml'
+make[4]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include/libxml'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/include/libxml2/libxml'
+make[4]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include/libxml'
+make[3]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include/libxml'
+make[3]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include'
+make[4]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include'
+make[3]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include'
+make[2]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7/include'
+Making install in .
+make[2]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7'
+make[3]: Entering directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7'
+ /usr/bin/mkdir -p '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/lib'
+libtool: install: /usr/bin/install -c .libs/libxml2.lai /home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/lib/libxml2.la
+/usr/bin/install: target '2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ports/x86_64-pc-linux-gnu/libxml2/2.9.7/lib/libxml2.la' is not a directory
+make[3]: *** [Makefile:925: install-libLTLIBRARIES] Error 1
+make[3]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7'
+make[2]: *** [Makefile:1751: install-am] Error 2
+make[2]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7'
+make[1]: *** [Makefile:1441: install-recursive] Error 1
+make[1]: Leaving directory '/home/mike/Documents/UN 2018-1/Arquitectura/sa_grades_ms/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.2/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.7/libxml2-2.9.7'
+make: *** [Makefile:1745: install] Error 2

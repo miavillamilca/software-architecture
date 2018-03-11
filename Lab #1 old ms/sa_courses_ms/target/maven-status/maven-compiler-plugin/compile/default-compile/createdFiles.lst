@@ -1,0 +1,4 @@
+arqsoft/course/model/Course.class
+arqsoft/course/service/CourseService.class
+arqsoft/course/JAXRSConfiguration.class
+arqsoft/course/resource/CourseResource.class
